@@ -9,7 +9,7 @@ Images collected by Img Flip API
 
  I finish the course from the channel freecodecamp on youtube and i learn a lot of concepts which are implementing in ReactJs and this project allowed the practice of the Forms Elements as controlled components by React, and handling API calls.
 
-Objective
+Objective:
 Create a webpage that will accept user inputs in text format, and when user submits inputs, webpage will load a random image meme to the page fromm the API.
 
 # Getting Started with Create React App
