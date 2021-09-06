@@ -1,3 +1,16 @@
+React Meme Generator
+A simple react application to make your own memes.
+
+"Don't Let your Memes be Dreams.
+
+#RESOURCES
+Images collected by Img Flip API
+
+ I finish the course from the channel freecodecamp on youtube and i learn a lot of concepts which are implementing in ReactJs and this project allowed the practice of the Forms Elements as controlled components by React, and handling API calls.
+
+Objective
+Create a webpage that will accept user inputs in text format, and when user submits inputs, webpage will load a random image meme to the page fromm the API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
